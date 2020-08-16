@@ -1,0 +1,64 @@
+"avg","coursename","quarterkey"
+"2.8434782608695652","Android App Development",1
+"3.0666666666666667","Introduction to Java",1
+"3.2448979591836735","Beginning Programming",1
+"2.9833333333333333","Object-oriented Programming with Java",1
+"3.1653061224489796","First Relational Database",1
+"3.1684210526315789","Graphics for Web Design",1
+"2.8591836734693878","Web Pages 101",1
+"2.8666666666666667","Introduction to Python",1
+"2.8105263157894737","Server-side JavaScript",1
+"3.0277777777777778","Introduction to iOS App Development",1
+"2.9183673469387755","Operating Systems and Basic Connectivity",1
+"2.7500000000000000","Web Design Principles",1
+"3.3150000000000000","SQL",1
+"3.3280000000000000","Graphics for Web Design",2
+"2.7477777777777778","NoSQL",2
+"3.0959722222222222","Operating Systems and Basic Connectivity",2
+"2.9225714285714286","Web Design Principles",2
+"3.1777777777777778","Beginning Programming",2
+"2.9892307692307692","Advanced iOS App Development",2
+"3.3562068965517241","Introduction to JavaScript",2
+"3.4361538461538462","Introduction to iOS App Development",2
+"3.2568750000000000","Advanced Android",2
+"2.9439130434782609","Python Projects",2
+"3.0254285714285714","SQL",2
+"3.1747222222222222","First Relational Database",2
+"2.9776923076923077","Android App Development",2
+"2.9701388888888889","Web Pages 101",2
+"2.7636111111111111","Introduction to Java",2
+"2.9155000000000000","Server-side JavaScript",2
+"2.9757142857142857","Introduction to Python",2
+"3.1230769230769231","Object-oriented Programming with Java",3
+"2.7576923076923077","Introduction to JavaScript",3
+NULL,"Django",3
+"2.8727272727272727","First Relational Database",3
+NULL,"App Development Capstone",3
+NULL,"Advanced Android",3
+"2.7696969696969697","Beginning Programming",3
+"3.1121212121212121","Operating Systems and Basic Connectivity",3
+"3.2583333333333333","Python Projects",3
+"3.2384615384615385","Web Design Principles",3
+"2.0636363636363636","Graphics for Web Design",3
+NULL,"Web Projects",3
+"2.9500000000000000","Introduction to Java",3
+"2.2000000000000000","Advanced JavaScript",3
+NULL,"Server-side JavaScript",3
+"2.4807692307692308","NoSQL",3
+NULL,"Introduction to Python",3
+NULL,"ETL and Reporting Tools",3
+"2.7484848484848485","Web Pages 101",3
+NULL,"Database Administration",3
+"3.1607142857142857","SQL",3
+NULL,"Python Data Analytics",3
+NULL,"Advanced iOS App Development",3
+"2.9285714285714286","First Relational Database",4
+"2.6714285714285714","Operating Systems and Basic Connectivity",4
+"3.0956521739130435","Introduction to Java",4
+"3.1041666666666667","ETL and Reporting Tools",4
+"3.6333333333333333","Web Design Principles",4
+"2.9400000000000000","Server-side JavaScript",4
+"2.7521739130434783","Introduction to Python",4
+"3.1928571428571429","Web Pages 101",4
+"2.8416666666666667","Database Administration",4
+"3.1857142857142857","Beginning Programming",4
